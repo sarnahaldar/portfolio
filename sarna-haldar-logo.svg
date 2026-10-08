@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-labelledby="title">
+  <title id="title">Sarna Haldar</title>
+  <rect width="720" height="240" fill="#060a2b"/>
+  <g fill="#ffffff">
+    <path d="M239 24H88L52 85l31 31h59l19-31h-53l15-24h101z"/>
+    <path d="M40 151h159l-23 37H65l-17 29h44l-18 20H31L5 210z"/>
+    <path d="m154 83 61 0 26 30-25 39h-52l20-31h20l8-13-12-12h-29z"/>
+    <path d="M105 120h49l-33 51H91l16-25H86z"/>
+  </g>
+  <g fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="67" font-style="italic" font-weight="800" letter-spacing="-2">
+    <text x="273" y="105">SARNA</text>
+    <text x="273" y="177">HALDAR</text>
+  </g>
+</svg>
